@@ -1,0 +1,8 @@
+zap:
+  cc:
+    taxa:
+      saque: 0.20
+      imposto: 0.5
+  cp:
+    taxa:
+      imposto: 0.5
